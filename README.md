@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Group Project
 
 E-commerce web application for coffee and bakery, developed with React and Tailwind CSS. The platform integrates with Node.js, Express.js, and MongoDB, featuring secure user authentication. It enables product browsing, coffee and bakery galleries, cart management, and order tracking. Designed with scalability in mind, the architecture is future-ready, providing a strong foundation for payment integration and inventory management in future updates.
